@@ -10,7 +10,11 @@ As shown this image below, the data run in 0.6 seconds to get stock analysis for
 Also, the image of VBA Challenge 2018, below, stock analysis for 2018 took 0.09 to get data. It is clearly shows that it only  takes few seconds to get any data I want between two different dataset of excel files by refactoring code in VBA.
 ![VBA_Challenge_2018](https://github.com/msjj622/Stock-analysis/blob/main/VBA_Challenge_2018.png)
 
-To get timer and the year of tock analysis I want to is to type the code as to shown the image, ![Run_time](https://github.com/msjj622/Stock-analysis/blob/main/Run_Time.png) and to get the result of execution time as the two first above image, you put the code for timer at the end of line ![Timer](https://github.com/msjj622/Stock-analysis/blob/main/Timer.png).
+To get timer and the year of stock analysis I want to is to type the code as to shown the image below.
+![Run_time](https://github.com/msjj622/Stock-analysis/blob/main/Run_Time.png)
+
+And to get the result of execution time as the two first above images, you put the code for timer at the end of line.
+![Timer](https://github.com/msjj622/Stock-analysis/blob/main/Timer.png)
 
 
 ## Summary: In a summary statement, address the following questions.
