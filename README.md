@@ -1,8 +1,8 @@
 # An Analysis of stock-analysis
-## Overview of Project: Explain the purpose of this analysis. (The purpose and background are well defined)
+## Overview of Project: Explain the purpose of this analysis.
 The purpose of this analysis is that Steve wants to get any dataset that he wants to know in the entire stock analysis over the few years. By using the code in VBA for looping through all the data, he can collect the data information he wants with one click button. It will helps to save a lot of times and memories without any added formatting in excel. Also, by taking few steps, using code in VBA is very sufficient for time saving because executing the data from VBA is faster to run. He can also easily add more data in the VBA so as to get any data information output he wants instead of typing and adding formatting in the excel. I confirmed that how much time refactored code output in VBA system takes to get stock analysis for 2017 and 2018 in the same sheet.
 
-## Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script. (The analysis is well described with screenshots and code )
+## Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
 As shown this image, the data run in 0.6 seconds to get stock analysis for 2017 ![VBA_Challenge_2017](https://github.com/msjj622/Stock-analysis/blob/main/VBA_Challenge_2017.png). Also, the image of ![VBA_Challenge_2018](https://github.com/msjj622/Stock-analysis/blob/main/VBA_Challenge_2018.png), stock analysis for 2018 took 0.09 to get data. It is clearly shows that it only  takes few seconds to get any data I want between two different dataset of excel files by refactoring code in VBA.
 
