@@ -5,7 +5,8 @@ The purpose of this analysis is that Steve wants to get any dataset that he want
 ## Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
 As shown this image below, the data run in 0.6 seconds to get stock analysis for 2017.
-![VBA_Challenge_2017](https://github.com/msjj622/Stock-analysis/blob/main/VBA_Challenge_2017.png). 
+![VBA_Challenge_2017](https://github.com/msjj622/Stock-analysis/blob/main/VBA_Challenge_2017.png)
+
 Also, the image of VBA Challenge 2018, below, stock analysis for 2018 took 0.09 to get data. It is clearly shows that it only  takes few seconds to get any data I want between two different dataset of excel files by refactoring code in VBA.
 ![VBA_Challenge_2018](https://github.com/msjj622/Stock-analysis/blob/main/VBA_Challenge_2018.png)
 
